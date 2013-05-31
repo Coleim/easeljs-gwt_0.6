@@ -15,7 +15,7 @@ Please check the easeljs/src folder to view only the java sources.<br />
 	2] In your module.gwt.xml add: <inherits name='easeljs.EaselJS'/>
 
 
-PYTHON GENERATOR
+Python Generator
 ======================================
 I wrote a quick python generator to Java Classes from the json documentation of EaselJs.<br />
 It is not a complete one and needs manula updates of the code afterward.<br />
