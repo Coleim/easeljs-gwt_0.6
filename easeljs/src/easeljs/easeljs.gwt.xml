@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <inherits name='com.google.gwt.user.User'/>
+  <script src='public/easeljs-0.6.1.min.js' />
+  <script src='public/movieclip-0.6.1.min.js' />
+</module>
