@@ -5,9 +5,7 @@ easeljs-gwt_0.6
 EaselJs
 ======================================
 Easel-GWT is a GWT port of EaselJS version 0.6 : http://easeljs.com/
-
 I just copied my Eclipse project into easeljs folder. 
-
 Please check the easeljs/src folder to view only the java sources.
 
 	
@@ -34,4 +32,5 @@ It is not a complete one and needs manula updates of the code afterward.
 REFERENCES
 ======================================
 https://github.com/timknip2
+http://www.createjs.com/#!/EaselJS
 
