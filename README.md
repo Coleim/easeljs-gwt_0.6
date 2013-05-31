@@ -16,9 +16,9 @@ Please check the easeljs/src folder to view only the java sources.
 
 PYTHON GENERATOR
 ======================================
-	I wrote a quick python generator to Java Classes from the json documentation of EaselJs.
-	It is not a complete one and needs manula updates of the code afterward.
-	(Feel free to improve it)
+I wrote a quick python generator to Java Classes from the json documentation of EaselJs.
+It is not a complete one and needs manula updates of the code afterward.
+(Feel free to improve it)
 
 	Usage
 	======================================
